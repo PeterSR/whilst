@@ -1,0 +1,8 @@
+# Test binaries and coverage
+*.test
+*.out
+coverage.*
+
+# Go workspace file
+go.work
+go.work.sum
